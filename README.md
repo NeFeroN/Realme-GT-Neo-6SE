@@ -2,7 +2,11 @@
 > OTA Firmware List
 
 <table>
-<tr><th>FULL OTA Firmware</th><th>RU Rollback Firmware</th><th>Zips for Substitution</th></tr>
+  <tr>
+    <th class="vertical">FULL OTA Firmware</th>
+    <th class="vertical">RU Rollback Firmware</th>
+    <th class="vertical">Zips for Substitution</th>
+  </tr>
 <tr><td>
 
 | Changelog | RU | TR | SA | MEA | IN | EU | TH | LATAM | BR |
