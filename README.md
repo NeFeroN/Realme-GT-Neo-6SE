@@ -2,7 +2,7 @@
 > OTA Firmware List
 
 <table>
-<tr><th>FULL OTA Firmware</th><th>RU Rollback Firmware</th><th>Zips for Substitution</th></tr>
+<tr><th>FULL OTA Firmware</th></tr>
 <tr><td>
 
 | Changelog | RU | TR | SA | MEA | IN | EU | TH | LATAM | BR |
@@ -19,7 +19,7 @@
 <tr><td>
 
 Verison | CN 
-:---: | :---:
+| :---: | :---: |
 14.0.1.611 | [Download](https://rbp01.realme.net/GT_Neo6_SE/RMX3850_11_A_OTA_0360_all_ZKHVlX_10010111.zip) 
 
 </td></tr> </table>
@@ -30,6 +30,6 @@ Verison | CN
 <tr><td>
 
 Verison | RU | TR | SA | MEA
-:---: | :---: | :---: | :---: | :---:
+| :---: | :---: | :---: | :---: | :---: |
 
 </td></tr> </table>
