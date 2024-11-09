@@ -12,11 +12,8 @@
 | [14.0.1.610](https://t.me/gt3neo5hub/138748/157630) | [Download](https://gauss-componentotacostmanual-eu.allawnofs.com/remove-a60653a0b9d09c49ad586ffc400a8477/component-ota/24/07/02/5a8d62d80d6f41199b66ed7609c3b4f9.zip) | [Download](https://gauss-componentotacostmanual-eu.allawnofs.com/remove-3956ae3bccedd28302ea2516c2e41117/component-ota/24/07/02/e1c9188f1c604fe4bcf2149456f5d6c1.zip) | [Download](https://gauss-componentotacostmanual-eu.allawnofs.com/remove-019b179619dc72037577984f135355d6/component-ota/24/07/02/b385da1913804d7db2ecb337c006b676.zip) | [Download](https://gauss-componentotacostmanual-eu.allawnofs.com/remove-c4164a4751ffc8c8d0a7b670908e4c88/component-ota/24/07/02/c071432eef764e5388b498d68f1be3a1.zip) | - | - | - | - | - |
 | [14.0.1.609](https://t.me/gt3neo5hub/138748/153741) | [Download](https://gauss-componentotacostmanual-sg.allawnofs.com/remove-d71eb514f86f2f84fda8e0d7475b2bff/component-ota/24/06/25/0724c5fbf50b48a3afcdc404d3de4019.zip) | [Download](https://gauss-componentotacostmanual-eu.allawnofs.com/remove-44e5748befcd7b479f15a8d9793e0d23/component-ota/24/06/25/bca36b6f69ee49a594ddbb0e973d68b6.zip) | [Download](https://gauss-componentotacostmanual-eu.allawnofs.com/remove-450b6456830477ae83706980ed64f4ed/component-ota/24/06/25/e4c202f2d31a4b68a04c47241902983a.zip) | [Download](https://gauss-componentotacostmanual-eu.allawnofs.com/remove-f4c465a1c1740b931defdbc3a44d3984/component-ota/24/06/25/cb12ac6e2cd0434ab55026d26818737c.zip) | - | - | - | - | - |
 
-</td></tr> </table>
+</td></tr>
 
-
-
-<table>
 <tr><th>RU Rollback Firmware</th></tr>
 <tr><td>
 
@@ -24,12 +21,9 @@ Verison | CN
 | :---: | :---: |
 14.0.1.611 | [Download](https://rbp01.realme.net/GT_Neo6_SE/RMX3850_11_A_OTA_0360_all_ZKHVlX_10010111.zip) 
 
-</td></tr> </table>
+</td></tr>
 
 
-
-
-<table>
 <tr><th>Zips for Substitution</th></tr>
 <tr><td>
 
