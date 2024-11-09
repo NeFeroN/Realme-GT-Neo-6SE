@@ -41,7 +41,7 @@
 <tr><th>Zips for Substitution</th></tr>
 <tr><td>
 
-Verison | RU | TR | SA | MEA
-| :---: | :---: | :---: | :---: | :---: |
-
+| Verison | RU | TR | SA | MEA | IN | EU | TH | LATAM | BR |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 14.0.1.613 | [Download](https://github.com/NeFeroN/Realme-GT-Neo-6SE/releases/download/gl.subs.613/RU_613_Subs.zip) | [Download](https://github.com/NeFeroN/Realme-GT-Neo-6SE/releases/download/gl.subs.613/TR_613_Subs.zip) | [Download](https://github.com/NeFeroN/Realme-GT-Neo-6SE/releases/download/gl.subs.613/SA_TH_613_Subs.zip) | [Download](https://github.com/NeFeroN/Realme-GT-Neo-6SE/releases/download/gl.subs.613/MEA_613_Subs.zip) | [Download](https://github.com/NeFeroN/Realme-GT-Neo-6SE/releases/download/gl.subs.613/IN_613_Subs.zip) | [Download](https://github.com/NeFeroN/Realme-GT-Neo-6SE/releases/download/gl.subs.613/EU_613_Subs.zip) | [Download](https://github.com/NeFeroN/Realme-GT-Neo-6SE/releases/download/gl.subs.613/SA_TH_613_Subs.zip) | [Download](https://github.com/NeFeroN/Realme-GT-Neo-6SE/releases/download/gl.subs.613/LATAM_613_subs.zip) | [Download](https://github.com/NeFeroN/Realme-GT-Neo-6SE/releases/download/gl.subs.613/BR_613_Subs.zip) |
 </td></tr> </table>
