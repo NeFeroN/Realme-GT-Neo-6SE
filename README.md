@@ -1,7 +1,7 @@
 # Realme GT Neo 6SE and 6T
 > OTA Firmware List
 
-<table style="width: 100%; text-align: center; border-collapse: collapse; margin: auto;">
+<table>
 <tr><th>FULL OTA Firmware</th></tr>
 <tr><td>
 
