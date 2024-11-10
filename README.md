@@ -31,7 +31,7 @@
 | |
 </td></tr>
 
-<tr><th>RU Rollback Firmware</th></tr>
+<tr><th>Rollback Firmware</th></tr>
 <tr><td>
 
 | Verison | CN | IN | RU |
