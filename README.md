@@ -22,6 +22,7 @@
 | Verison | CN |
 | :---: | :---: |
 | [15.0.0.200]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-8ed5aef0695aa393074070241443ac09/component-ota/24/11/03/f09360a46ee44c4ea510d5b87474857c.zip) |
+| |
 | [14.0.1.611]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-8e3bde7d6556db67e25ea3aa6c0c463e/component-ota/24/10/13/dfafc3eda1c5416ca8c6c32bd86b75c4.zip) |
 | [14.0.1.610]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-3b4f0b6910c74129566f604530e7a06f/component-ota/24/09/03/9220fc46964149cc9cfeeb6c35fbd56d.zip) |
 | [14.0.1.609]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-3eceb7f244c55e055d4dde3dd7a986f2/component-ota/24/07/22/978f347edd534e68bfdba9b6aa74c953.zip) |
