@@ -16,8 +16,8 @@
 | |
 
 </td></tr>
-<tr><th>CN A14 FULL OTA Firmware</th><th>CN A14 FULL OTA Firmware</th></tr>
-<tr><td>
+<tr><th>CN A14 FULL OTA Firmware</th><th>CN A15 FULL OTA Firmware</th></tr>
+<td><td>
 
 | Verison | CN |
 | :---: | :---: |
@@ -34,7 +34,7 @@
 | :---: | :---: |
 | [15.0.0.200]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-8ed5aef0695aa393074070241443ac09/component-ota/24/11/03/f09360a46ee44c4ea510d5b87474857c.zip) |
 
-</td></tr>
+</td></td>
 
 <tr><th>Rollback Firmware</th></tr>
 <tr><td>
