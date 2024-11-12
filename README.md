@@ -16,25 +16,20 @@
 | |
 
 </td></tr>
-<tr><th>CN A14 FULL OTA Firmware</th><th>CN A15 FULL OTA Firmware</th></tr>
-<td><td>
+<tr><th>CN FULL OTA Firmware</th></tr>
+<tr><td>
 
 | Verison | CN |
 | :---: | :---: |
+| [15.0.0.200]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-8ed5aef0695aa393074070241443ac09/component-ota/24/11/03/f09360a46ee44c4ea510d5b87474857c.zip) |
+| |
 | [14.0.1.611]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-8e3bde7d6556db67e25ea3aa6c0c463e/component-ota/24/10/13/dfafc3eda1c5416ca8c6c32bd86b75c4.zip) |
 | [14.0.1.610]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-3b4f0b6910c74129566f604530e7a06f/component-ota/24/09/03/9220fc46964149cc9cfeeb6c35fbd56d.zip) |
 | [14.0.1.609]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-3eceb7f244c55e055d4dde3dd7a986f2/component-ota/24/07/22/978f347edd534e68bfdba9b6aa74c953.zip) |
 | [14.0.1.608]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-4b9f010ddeb824911d7af1addb012a9e/component-ota/24/06/23/3a261158814d4bbc8df31a899d09fe07.zip) |
 | [14.0.1.607]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-6f12fdeca0e06c1b24bf924737c48579/component-ota/24/05/20/1120f6d4c7e74ed294ac2ff2e0fad316.zip) |
 | [14.0.1.605]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-566476aae5c9f84f49a32a6bec90d65b/component-ota/24/04/27/c2f5bba84c424d31927f6030cb97cf5d.zip) |
-| |
-</td><td>
-
-| Verison | CN |
-| :---: | :---: |
-| [15.0.0.200]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-8ed5aef0695aa393074070241443ac09/component-ota/24/11/03/f09360a46ee44c4ea510d5b87474857c.zip) |
-
-</td></td>
+</td><tr>
 
 <tr><th>Rollback Firmware</th></tr>
 <tr><td>
