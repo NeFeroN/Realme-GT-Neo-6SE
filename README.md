@@ -21,6 +21,7 @@
 
 | Verison | CN |
 | :---: | :---: |
+| [15.0.0.310](https://gauss-compotacostauto-cn.allawnfs.com/remove-cd36a30e9cba2060017e3e9bd97d7cfd/component-ota/24/11/21/43df406136aa4e798e1cbbaadd28b051.html?logoType=1) | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-cd36a30e9cba2060017e3e9bd97d7cfd/component-ota/24/11/19/f18f6c6dcdc94e9f8168cc296ea87dd0.zip) |
 | [15.0.0.200]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-8ed5aef0695aa393074070241443ac09/component-ota/24/11/03/f09360a46ee44c4ea510d5b87474857c.zip) |
 | |
 | [14.0.1.611]() | [Download](https://gauss-otacostmanual-cn.allawnfs.com/remove-8e3bde7d6556db67e25ea3aa6c0c463e/component-ota/24/10/13/dfafc3eda1c5416ca8c6c32bd86b75c4.zip) |
